@@ -5,11 +5,10 @@ export default function Home() {
 
     
     <main className="flex min-h-screen flex-col">
-      <nav className="bg-white border-gray-200 dark:bg-gray-900 ">
+      <nav className="bg-white border-gray-200  ">
         <div className="container mx-auto">
           <div className='flex justify-center items-center'>
             <Image
-              className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
               src="/logo.png"
               alt="Home"
               width={200}
