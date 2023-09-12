@@ -44,33 +44,30 @@ export default function Home() {
               />
   
 			
-			<h1 className="text-3xl font-bold pt-8 lg:pt-0">Bienvenue sur <span className='text-mlc'>mlcoachandcleen.com ! 🌟</span></h1>
+  <h1 className="text-3xl font-bold pt-8 lg:pt-0">Bienvenue sur <span className='text-mlc'>mlcoachandcleen.com !🌟</span></h1>
+
 			<div className="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25"></div>
 			<p className="pt-4 text-base font-bold flex items-center justify-center lg:justify-start">
           <svg className="h-4 fill-current text-green-700 pr-4 text-red-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
               <path d="M9 12H1v6a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-6h-8v2H9v-2zm0-1H0V5c0-1.1.9-2 2-2h4V2a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1h4a2 2 0 0 1 2 2v6h-9V9H9v2zm3-8V2H8v1h4z"/></svg> 
               Site en construction</p>
 			<section>
-          <p>
-              Actuellement en pleine construction, ce site promet de bientôt vous dévoiler une expérience riche et immersive.
-          </p>
+      <p>Actuellement en pleine construction, ce site promet de bientôt vous dévoiler une expérience riche et immersive.</p>
 
-          <p>
-              Mais qui se cache derrière ce projet ? Laissez-moi me présenter : Je suis <strong>Marie</strong>, experte dans l'accompagnement des personnes ambitieuses et authentiques. Ma passion est de vous aider à réaliser vos aspirations les plus profondes, tout en préservant et cultivant votre authenticité.
-          </p>
+
+          <p>Mais qui se cache derrière ce projet ? Laissez-moi me présenter : Je suis <strong>Marie</strong>, experte dans l&apos;accompagnement des personnes ambitieuses et authentiques. Ma passion est de vous aider à réaliser vos aspirations les plus profondes, tout en préservant et cultivant votre authenticité.</p>
+
+          
+          <p>Ma formation et ma pratique en tant que praticienne Cleen et PNL me permettent de vous offrir des techniques et des stratégies éprouvées pour dénouer les obstacles inconscients, clarifier vos désirs et catalyser vos actions vers le succès.</p>
+
+          <p>Alors, même si mon site est en chantier, sachez que ma mission reste inchangée : vous accompagner dans votre voyage vers une version plus accomplie et authentique de vous-même.</p>
+
           
           <p>
-              Ma formation et ma pratique en tant que praticienne Cleen et PNL me permettent de vous offrir des techniques et des stratégies éprouvées pour dénouer les obstacles inconscients, clarifier vos désirs et catalyser vos actions vers le succès.
-          </p>
-          <p>
-              Alors, même si mon site est en chantier, sachez que ma mission reste inchangée : vous accompagner dans votre voyage vers une version plus accomplie et authentique de vous-même.
-          </p>
-          
-          <p>
-              Une multitude de ressources, d'articles et de conseils vous attendent. 
+              Une multitude de ressources, d&apos;articles et de conseils vous attendent. 
           </p>
 
-          <p>En attendant, n'hésitez pas à me contacter sur l'un de mes réseaux pour toute question ou pour débuter votre parcours d'accompagnement.</p>
+          <p>En attendant, n&apos;hésitez pas à me contacter sur l&apos;un de mes réseaux pour toute question ou pour débuter votre parcours d&apos;accompagnement.</p>
       </section>
 
 			<div className="pt-12 pb-8">
