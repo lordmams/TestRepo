@@ -19,7 +19,7 @@ const nextConfig = { head: {
             s = b.getElementsByTagName(e)[0];
             s.parentNode.insertBefore(t, s);
           }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-          fbq('init', '866980228351707'); // Replace with your actual Pixel ID
+          fbq('init', '866980228351707'); 
           fbq('track', 'PageView');
         `,
       },

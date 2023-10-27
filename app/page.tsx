@@ -1,17 +1,16 @@
 import Image from 'next/image'
 import Head from 'next/head'
+
+
 export default function Home() {
   return (
     <>
       <Head>
         <title>Coach & Cleen</title>
+        
         <meta name="description" content="Coach professionnelle certifié" />
         <link rel="icon" href="/logo.png" />
-        <noscript>
-          <img height="1" width="1" style={{ display: 'none' }}
-            src="https://www.facebook.com/tr?id=866980228351707&ev=PageView&noscript=1"
-          />
-        </noscript>
+      
         {/* Add other header elements as required */}
       </Head>
       <main className="flex min-h-screen flex-col">
